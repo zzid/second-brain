@@ -2,8 +2,7 @@
 type: reflection
 category: insight
 visibility: public
-date:
-  "{ date }":
+date: 2026-04-13
 tags:
   - insight
 status: ready_to_post
