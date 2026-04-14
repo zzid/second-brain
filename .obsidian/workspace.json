@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Insight/2026.04.13.md",
+                "file": "00 Insight/2026.04.14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026.04.13"
+              "title": "2026.04.14"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Insight/2026.04.13.md",
+                "file": "00 Insight/2026.04.14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026.04.13"
+              "title": "Backlinks for 2026.04.14"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Insight/2026.04.13.md",
+                "file": "00 Insight/2026.04.14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026.04.13"
+              "title": "Outgoing links from 2026.04.14"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Insight/2026.04.13.md",
+                "file": "00 Insight/2026.04.14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026.04.13"
+              "title": "Outline of 2026.04.14"
             }
           },
           {
@@ -212,6 +212,7 @@
   "active": "5fa6c396d3c273f9",
   "lastOpenFiles": [
     "00 Insight/2026.04.13.md",
+    "00 Insight/2026.04.14.md",
     "99 Templates/career-log.md.md",
     "99 Templates/insight.md.md",
     "01 Career",
